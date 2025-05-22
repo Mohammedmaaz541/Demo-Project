@@ -1,0 +1,9 @@
+let name=console.log("hello world");
+let age=console.log(20);    
+let city=console.log("delhi");
+let country=console.log("india");
+let hobbies=console.log("reading");
+let isMarried=console.log(false);
+let isEmployed=console.log(false);
+let isStudent=console.log(true);
+let isSingle=console.log(true);
